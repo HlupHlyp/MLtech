@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+/lab2/rotten_tomatoes_critic_reviews.csv
+/lab2/rotten_tomatoes_movies.csv
